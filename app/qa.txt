@@ -1,0 +1,9 @@
+What did you learn yesterday/this week?
+Answer: Learning and read books
+
+What excites or interests you about coding?
+ANswer: something is more interesting
+
+What is a recent technical challenge you experienced and how did you solve it?
+Answer: hello world
+
